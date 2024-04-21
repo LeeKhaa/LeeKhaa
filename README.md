@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Le Kha</h1>
 <p align="center">
   <h3 align="left">I'm a student majoring in Information Systems</h3>
-  <h3 align="center">Industrial University of Ho Chi Minh City</h3>
+  <h3 align="left">Industrial University of Ho Chi Minh City</h3>
 </p>
 <br />
 
