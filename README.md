@@ -11,16 +11,16 @@
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/LeeKhaa/Github-Profile-Tutorial.svg)](https://gitter.im/LeeKhaa/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/lekhaa/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="" alt="Facebook">
+  <a href="https://www.facebook.com/kha.tran.2903" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="" alt="Github">
+  <a href="https://github.com/LeeKhaa" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="" alt="Youtube channel" target="_blank" >
+  <a href="www.youtube.com/@KhazProgramming" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
   <a href="mailto:tranlekha.2903@gmail.com" alt="Email">
